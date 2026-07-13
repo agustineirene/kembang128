@@ -1,5 +1,6 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">sitem
-  <url>
-    <loc>https://agustineirene.github.io/kembang128/</loc>
-  </url>
-  </urlset>
+robot.txt :
+
+User-agent: *
+Allow: /
+
+Sitemap: https://agustineirene.github.io/kembang128/sitemap.xml
